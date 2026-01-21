@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Vision",
+  "description": "A high-performance AI image generation tool powered by Google's Gemini 2.5 Flash model. Transform text into stunning visuals instantly.",
+  "requestFramePermissions": []
+}
